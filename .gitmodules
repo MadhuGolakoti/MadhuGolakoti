@@ -1,3 +1,6 @@
 [submodule "OptimusPrime"]
 	path = OptimusPrime
 	url = https://github.com/Sudhakar2327/OptimusPrime.git
+[submodule "devopstraininghub"]
+	path = devopstraininghub
+	url = https://github.com/sairam054/devopstraininghub.git
